@@ -1,0 +1,304 @@
+Once:
+  1:
+    Name: "整点圆石"
+    Items:
+      - "COBBLESTONE:16" #需要16个圆石
+    Reward:
+      Exp: 10
+      Money: 100
+    Content: "尝试使用刷石机获取"
+  2:
+    Name: "砍点树"
+    Items:
+      - "OAK_LOG:16" #需要16个橡木原木
+    Reward:
+      Exp: 10
+      Money: 100
+    Content: "想致富先撸树"
+    ItemReward: []
+  3:
+    Name: "新型反甲"
+    Items:
+      - "CACTUS:16" #需要16个仙人掌
+    Reward:
+      Exp: 10
+      Money: 100
+    Content: "在沙子上种仙人掌"
+    ItemReward: []
+  4:
+    Name: "猎手"
+    Items:
+      - "BONE:16" #需要16个骨头
+      - "ROTTEN_FLESH:16" #需要16个腐肉
+      - "SPIDER_EYE:8" #需要8个蜘蛛眼
+      - "GUNPOWDER:16" #需要8个火药
+      - "STRING:16" #需要16个线
+      - "ARROW:16" #需要16个箭
+    Reward:
+      Exp: 15
+      Money: 200
+    Content: "建造一个刷怪塔,并刷取一定的材料"
+    ItemReward:
+      - "DIAMOND:2"
+  5:
+    Name: "有吃的了"
+    Items:
+      - "WHEATS:16" #需要16个小麦
+    Reward:
+      Exp: 10
+      Money: 100
+    Content: "开发一块耕地,种上小麦"
+    ItemReward:
+      - "DIAMOND:2"
+  6:
+    Name: "来点甜味"
+    Items:
+      - "SUGAR_CANE:16" #需要16个甘蔗
+    Reward:
+      Exp: 10
+      Money: 100
+    Content: "在水边种上甘蔗"
+    ItemReward: []
+  7:
+    Name: "南瓜与西瓜"
+    Items:
+      - "PUMPKINE:16" #需要16个南瓜
+      - "MELON_SLICE:16" #需要32个西瓜片
+    Reward:
+      Exp: 10
+      Money: 150
+    Content: "开辟一块农田,种点南瓜与西瓜"
+    ItemReward: []
+  8:
+    Name: "改补充维A了"
+    Items:
+      - "CARROT:64" #需要64个胡萝卜
+    Reward:
+      Exp: 10
+      Money: 100
+    Content: "开辟一块胡萝卜田"
+    ItemReward: []
+  9:
+    Name: "能吃的蘑菇"
+    Items:
+      - "BROWN_MUSHROOM:16" #需要16个棕色蘑菇
+      - "RED_MUSHROOM:16" #需要16个红色蘑菇
+    Reward:
+      Exp: 10
+      Money: 100
+    Content: "采集16个棕色蘑菇和16个红色蘑菇"
+    ItemReward:
+      - "BROWN_MUSHROOM:24"
+      - "RED_MUSHROOM:24"
+  10:
+    Name: "牛哇,牛哇"
+    Items:
+      - "COOKED_BEEF:16" #需要16个牛排
+    Reward:
+      Exp: 15
+      Money: 100
+    Content: "建一个养牛场"
+    ItemReward: []
+  11:
+    Name: "奶油蛋糕"
+    Items:
+      - "CAKE:8" #需要8个蛋糕
+    Reward:
+      Exp: 20
+      Money: 100
+    Content: "制作八个蛋糕"
+    ItemReward:
+      - "DIAMOND:2"
+  12:
+    Name: "进入地狱"
+    Items:
+      - "OBSIDIAN:10" #需要10个黑曜石
+    Reward:
+      Exp: 8
+      Money: 100
+    Content: "收集10个黑曜石"
+    ItemReward:
+      - "OBSIDIAN:10"
+  13:
+    Name: "获取蓝冰"
+    Items:
+      - "BLUE_ICE:1" #需要1个蓝冰
+    Reward:
+      Exp: 8
+      Money: 400
+    Content: "收集1个蓝冰"
+    ItemReward: []
+  14:
+    Name: "光芒耀眼"
+    Items:
+      - "GLOWSTONE:64" #需要64个萤石
+    Reward:
+      Exp: 20
+      Money: 400
+    Content: "获取萤石"
+    ItemReward: []
+  15:
+    Name: "钻石的重量,令人安心"
+    Items:
+      - "DIAMOND_HELMET:1" #需要1个钻石帽子
+      - "DIAMOND_CHESTPLATE:1" #需要1个钻石胸甲
+      - "DIAMOND_LEGGINGS:1" #需要1个钻石护腿
+      - "DIAMOND_BOOTS:1" #需要1个钻石鞋子
+    Reward:
+      Exp: 20
+      Money: 200
+    Content: "打造一套钻石装备"
+    ItemReward:
+      - "DIAMOND_HELMET:1"
+      - "DIAMOND_CHESTPLATE:1"
+      - "DIAMOND_LEGGINGS:1"
+      - "DIAMOND_BOOTS:1"
+  16:
+    Name: "下界的力量"
+    Items:
+      - "NETHERITE_INGOT:4" #需要4个下届合金锭
+    Reward:
+      Exp: 10
+      Money: 300
+    Content: "通过玄武岩刷石机获取远古遗骸"
+    ItemReward:
+      - "NETHERITE_INGOT:4"
+  17:
+    Name: "透明的,嘿嘿"
+    Items:
+      - "GLASS:64" #需要64个玻璃
+    Reward:
+      Exp: 8
+      Money: 100
+    Content: "炼制64个玻璃"
+    ItemReward:
+      - "GLASS:64"
+  18:
+    Name: "大郎,该喝药了"
+    Items:
+      - "BREWING_STAND:1" #需要1个酿造台
+    Reward:
+      Exp: 8
+      Money: 100
+    Content: "制作一个酿造台"
+    ItemReward:
+      - "NETHER_WART:64"
+  19:
+    Name: "来点水果"
+    Items:
+      - "APPLE:8" #需要8个苹果
+    Reward:
+      Exp: 8
+      Money: 100
+    Content: "通过砍树获得8个苹果"
+    ItemReward:
+      - "APPLE:16"
+  20:
+    Name: "哇,金色传说！"
+    Items:
+      - "GOLD_INGOT:8" #需要8个金锭
+    Reward:
+      Exp: 8
+      Money: 100
+    Content: "熔炼8个金子"
+    ItemReward:
+      - "GOLD_INGOT:8"
+  21:
+    Name: "歪曰,奸商"
+    Items:
+      - "EMERALD:32" #需要32个绿宝石
+    Reward:
+      Exp: 20
+      Money: 500
+    Content: "与村民交易获取32个绿宝石"
+    ItemReward: []
+  22:
+    Name: "当代附魔带师"
+    Items:
+      - "BOOKSHELF:16" #需要16个书架
+      - "ENCHANTING_TABLE:1" #需要1个附魔台
+    Reward:
+      Exp: 20
+      Money: 500
+    Content: "制作16个书架与1个附魔台"
+    ItemReward:
+      - "BOOKSHELF:16"
+      - "ENCHANTING_TABLE:1"
+  23:
+    Name: "砍树?轻轻松松"
+    Items:
+      - "OAK_LOG:64"
+      - "SPRUCE_LOG:64"
+      - "BRICH_LOG:64"
+      - "JUNGLE_LOG:64"
+      - "ACACIA_LOG:64"
+      - "DARK_OAK_LOG:64"
+    Reward:
+      Exp: 20
+      Money: 400
+    Content: "各收集一组常见树木"
+    ItemReward: []
+  24:
+    Name: "羊毛,拿来吧你"
+    Items:
+      - "WHITE_WOOL:32"
+    Reward:
+      Exp: 20
+      Money: 200
+    Content: "做一个羊圈,剪点羊毛"
+    ItemReward: []
+  25:
+    Name: "开个染色坊吧"
+    Items:
+      - "WHITE_DYE:32"
+      - "ORANGE_DYE:32"
+      - "MAGENTA_DYE:32"
+      - "LIGHT_BLUE__DYE:32"
+      - "YELLOW_DYE:32"
+      - "LIME_DYE:32"
+      - "PINK_DYE:32"
+      - "GRAY_DYE:32"
+      - "LIGHT_GRAY_DYE:32"
+      - "CYAN_DYE:32"
+      - "PURPLE_DYE:32"
+      - "BLUE_DYE:32"
+      - "BROWN_DYE:32"
+      - "GREEN_DYE:32"
+      - "RED_DYE:32"
+      - "BLACK_DYE:32"
+    Reward:
+      Exp: 50
+      Money: 2000
+    Content: "收集各色染料半组"
+    ItemReward: []
+  26:
+    Name: "织一件彩色羊毛衫"
+    Items:
+      - "WHITE_WOOL:32"
+      - "ORANGE_WOOL:32"
+      - "MAGENTA_WOOL:32"
+      - "LIGHT_BLUE_WOOL:32"
+      - "YELLOW_WOOL:32"
+      - "LIME_WOOL:32"
+      - "PINK_WOOL:32"
+      - "GRAY_WOOL:32"
+      - "LIGHT_GRAY_WOOL:32"
+      - "CYAN_WOOL:32"
+      - "PURPLE_WOOL:32"
+      - "BLUE_WOOL:32"
+      - "BROWN_WOOL:32"
+      - "GREEN_WOOL:32"
+      - "RED_WOOL:32"
+      - "BLACK_WOOL:32"
+    Reward:
+      Exp: 50
+      Money: 2500
+    Content: "收集各色羊毛半组"
+    ItemReward: []
+  27:
+    Name: "可以食无肉,不可居无竹"
+    Items:
+      - "BAMBOO:64"
+    Reward: "2:5:100"
+    Content: "种植并砍得64根竹子"
+    ItemReward: []
